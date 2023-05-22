@@ -1,3 +1,4 @@
+//This dice game was developed by Tapiwa Sande
 import 'package:flutter/material.dart';
 import 'package:module_one_app/gradient_cont.dart';
 
